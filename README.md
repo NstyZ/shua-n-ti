@@ -4,6 +4,6 @@
 
 目前上线：
 
-- [数字图像处理](https://nstyz.github.io/dip-review/) · 369 题 / 45 页复习讲义 / 403 题索引
+- [数字图像处理](https://nstyz.github.io/dip-review/) · 419 题 / 45 页复习讲义 / 403 题索引 / 79 道课本习题精讲
 
 更多题库开发中，敬请期待。
